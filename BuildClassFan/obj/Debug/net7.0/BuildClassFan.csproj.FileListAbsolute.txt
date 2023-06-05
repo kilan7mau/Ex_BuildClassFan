@@ -1,0 +1,15 @@
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\bin\Debug\net7.0\BuildClassFan.exe
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\bin\Debug\net7.0\BuildClassFan.deps.json
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\bin\Debug\net7.0\BuildClassFan.runtimeconfig.json
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\bin\Debug\net7.0\BuildClassFan.dll
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\bin\Debug\net7.0\BuildClassFan.pdb
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.csproj.AssemblyReference.cache
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.AssemblyInfoInputs.cache
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.AssemblyInfo.cs
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.csproj.CoreCompileInputs.cache
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.dll
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\refint\BuildClassFan.dll
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.pdb
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\BuildClassFan.genruntimeconfig.cache
+D:\GITHUB\Ex_BuildClassFan\BuildClassFan\obj\Debug\net7.0\ref\BuildClassFan.dll
